@@ -1,35 +1,9 @@
-/**
-//══════════════════════════════════════════════════════════════════════════════════════════════════════//
-//                                                                                                      //
-//                                   ＷＨＡＴＳＡＰＰ　ＢＯＴ－ＤＡＮＵＷＡ　ＭＤ                           //
-//                                                                                                      // 
-//                                             Ｖ：1．0．0                                               // 
-//                                                                                                      // 
-//     ██████╗  █████╗ ███╗  ██╗██╗   ██╗██╗    ██╗ █████╗     ███╗   ███╗██████╗                       //
-//     ██╔══██╗██╔══██╗████╗ ██║██║   ██║██║    ██║██╔══██╗    ████╗ ████║██╔══██╗                      //
-//     ██║  ██║███████║██╔██╗██║██║   ██║██║ █╗ ██║███████║    ██╔████╔██║██║  ██║                      //
-//     ██║  ██║██╔══██║██║╚████║██║   ██║██║███╗██║██╔══██║    ██║╚██╔╝██║██║  ██║                      //
-//     ██████╔╝██║  ██║██║ ╚███║╚██████╔╝╚███╔███╔╝██║  ██║    ██║ ╚═╝ ██║██████╔╝                      //
-//     ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚══╝ ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝    ╚═╝     ╚═╝╚═════╝                       //
-//                                                                                                      //
-//                            Powerful WhatsApp Bot by Danuka Disanayaka                                //
-//                                                                                                      //
-//══════════════════════════════════════════════════════════════════════════════════════════════════════//
 
-
-CURRENTLY RUNNING ON STABLE VERSION!
-
-*
-   * @project_name : DANUWA-MD
-   * @author       : Danuka Disanayaka
-   * @github       : https://github.com/DANUWA-MD
-   * @description  : DANUWA-MD is a multifunctional WhatsApp bot built using Baileys.
-   * @version      : 1.0.0
 *
    * Licensed under the GNU GPL-3.0 License.
 * 
-   * ┌┤Created By Danuka Disanayaka
-   * © 2025 DANUWA-MD ✭ ⛥.
+   * ┌┤Created By Thenuka dilitha
+   * © 2025 THENUKA-BOT ✭ ⛥.
    * plugin date : 07/02/2025
 * 
    * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
